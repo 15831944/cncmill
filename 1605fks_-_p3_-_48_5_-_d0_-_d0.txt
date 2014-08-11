@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"32-28042010-099568";"";
+"TraceParts.ClassPath";"ROMANI:/ROOT/C21/C21.T03/C21.T03.T02/32-28042010-099568";"";
+"TraceParts.InstanceId";"32-28042010-099568CWKX4TK2G5TERMTYJY8UO9MQX";"";
+"REFERENCE";"1605FKS - P3 - 48.5 - D0 - D0";"";
+"DESIGN";"RM 1605 FK";"";
+"SUPPLIER";"ROMANI";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartStatus";"Published";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartTitle";"RM 1605 FK";"";
+"TraceParts.PartVersion";"1.0.5";"";
